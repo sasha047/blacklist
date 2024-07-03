@@ -1,39 +1,241 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:04:04.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="21.6.8" etag="PKaPOX4ylf8ESZXGuv_x" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T09:52:21.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="35YPfscT295NcO88bpGY" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="2247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+        <object label="&lt;div style=&quot;box-sizing: border-box; display: flex; align-items: center; cursor: default; font-size: 24px; line-height: 35px; color: rgba(44, 56, 74, 0.95); font-family: &amp;quot;Open Sans&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;it-board-card-title&quot;&gt;Дирекция по информационным технологиям СГМК&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; display: flex; align-items: center; color: rgba(44, 56, 74, 0.95); font-family: &amp;quot;Open Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;it-board-card-title-right&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;br&gt;&lt;/div&gt;" id="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-1340" y="-160" width="2461" height="1190" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="Директор по информационным технологиям" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="690" y="50" width="340" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Генеральный директор ООО СББ" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="730" y="160" width="260" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Начальник отдела Защиты информации" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="290" y="260" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <UserObject label="Начальник отдела информационных технолоий" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1115.5" y="270" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Начальник отдела обработки и контроля заявок" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-5">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1830" y="260" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Начальник отдела охранных систем" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-6">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="2260" y="40" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Заместитель начальника отдела Защиты информации" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="290" y="360" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ведущий инженер аудита" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-24">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="590" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ведущий инженер SOC" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-25">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="210" y="480" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Инженер аудита" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-26">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="590" y="580" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Бизнес аналитик" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-27">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="400" y="480" width="174" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Инженер-аналитик (junior)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-28">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="400" y="570" width="174" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Инженер-аналитик (junior)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-29">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="400" y="660" width="174" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Администратор SOC (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-30">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="210" y="570" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Инженер аудита" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-46">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="590" y="670" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Администратор SOC (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-49">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="210" y="660" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Администратор SOC (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-50">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="210" y="750" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Администратор SOC (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-51">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="210" y="840" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="doZLl1oeHXIzoqLcg9ua-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="doZLl1oeHXIzoqLcg9ua-54" target="doZLl1oeHXIzoqLcg9ua-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Заместитель начальника отдела информационных технологий" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-54">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1100" y="360" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="doZLl1oeHXIzoqLcg9ua-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="doZLl1oeHXIzoqLcg9ua-55" target="doZLl1oeHXIzoqLcg9ua-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Главный системный администратор" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-55">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="860" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="doZLl1oeHXIzoqLcg9ua-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="doZLl1oeHXIzoqLcg9ua-56" target="doZLl1oeHXIzoqLcg9ua-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Ведущий системный администратор" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-56">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="860" y="580" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ведущий системный администратор" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-57">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="860" y="670" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ведущий специалист технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-58">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1830" y="350" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 5/2 (8 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-59">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1630" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 7/0 (12 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-60">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1890" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 5/2 (8 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-61">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1630" y="570" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 7/0 (12 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-62">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1890" y="570" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 7/0 (12 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-63">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1890" y="660" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 7/0 (12 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-64">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1890" y="750" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист технической поддержки 5/2 (8 ч.)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-65">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1630" y="660" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Дежурный администратор технической поддержки (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-66">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1100" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Дежурный администратор технической поддержки (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-67">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1100" y="580" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Дежурный администратор технической поддержки (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-68">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1100" y="670" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Дежурный администратор технической поддержки (24/7)" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-69">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1100" y="760" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-71">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="480" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-72">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="570" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-73">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="660" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-74">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="750" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-75">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="840" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-76">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="930" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-77">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="1020" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Системный администратор технической поддержки" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-79">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1340" y="1110" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ведущий инженер NOC" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-47">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-1200" y="320" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Инженер" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="doZLl1oeHXIzoqLcg9ua-48">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-1200" y="410" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
